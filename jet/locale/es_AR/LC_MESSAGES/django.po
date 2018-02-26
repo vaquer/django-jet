@@ -1,0 +1,24 @@
+# This file is distributed under the same license as the Django package.
+#
+# Translators:
+# Jannis Leidel <jannis@leidel.info>, 2011
+# Leonardo José Guzmán <ljguzman@gmail.com>, 2013
+# Ramiro Morales, 2013-2017
+msgid ""
+msgstr ""
+"Project-Id-Version: django\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-19 16:49+0100\n"
+"PO-Revision-Date: 2017-09-23 18:54+0000\n"
+"Last-Translator: Vaquero Ciciliano Francisco\n"
+"Language-Team: Spanish (Argentina) (http://www.transifex.com/django/django/"
+"language/es_AR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_AR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, python-format
+msgid "Successfully deleted %(count)d %(items)s."
+msgstr "%(count)d Objeto(s) eliminados con éxito."

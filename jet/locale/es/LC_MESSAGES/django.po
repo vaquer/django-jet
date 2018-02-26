@@ -124,3 +124,8 @@ msgstr "tema actual"
 #: templates/admin/popup_response.html:4
 msgid "Popup closing..."
 msgstr "Cerrando ventana emergente..."
+
+
+#, python-format
+msgid "Successfully deleted %(count)d %(items)s."
+msgstr "%(count)d Objeto(s) eliminados con éxito."
