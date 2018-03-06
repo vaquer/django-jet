@@ -89,8 +89,7 @@ body {
 #content-related {
   float: none;
   width: 260px;
-  position: absolute;
-  bottom: 10%;
+  position: inherit;
   margin-right: -300px;
 
   @include for-mobile {
@@ -176,7 +175,6 @@ body {
 @media only screen and (min-width: 1300px) {
   #content-related {
     float: none;
-    position: absolute !important;
-    bottom: 10% !important;
+    position: inherit !important;
   }
 }
