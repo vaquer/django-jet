@@ -171,3 +171,20 @@ body {
 @import "dashboard";
 @import "delete-confirmation";
 @import "login";
+
+@media only screen and (min-width: 1300px) {
+
+#content-related {
+  float: right;
+  width: 260px;
+  position: relative;
+  margin-right: -300px;
+
+  @include for-mobile {
+    float: none;
+    width: 100%;
+    margin-left: 0;
+    position: static;
+  }
+}
+}
